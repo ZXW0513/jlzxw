@@ -22,4 +22,5 @@ urlpatterns = [
     url(r'^',include('df_goods.urls')),
     url(r'^llllll',include('asdasd a')),
     url(r'^zzzzzz',include('asdasd a')),
+    url(r'^',include('zzzzzz.urls')),
 ]
