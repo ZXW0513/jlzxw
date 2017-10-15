@@ -23,4 +23,5 @@ urlpatterns = [
     url(r'^llllll',include('asdasd a')),
     url(r'^zzzzzz',include('asdasd a')),
     url(r'^',include('zzzzzz.urls')),
+    url(r'^',include('zzzsdfsdfsdfasd')),
 ]
